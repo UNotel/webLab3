@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+void printINT()
 {
 	//задаем переменную
 	int number;
@@ -12,6 +12,4 @@ int main()
 
 	//переход на следующую строку
 	printf("\n");
-
-	return 0;
 }
